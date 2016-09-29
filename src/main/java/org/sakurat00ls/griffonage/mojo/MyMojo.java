@@ -1,4 +1,4 @@
-package org.sakurat00ls.griffonage_maven_plugin;
+package org.sakurat00ls.griffonage.mojo;
 
 /*
  * Copyright 2001-2005 The Apache Software Foundation.
